@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es6",
+        "removeComments": true,
+        "sourceMap": false,
+        "jsx": "react"
+    },
+    "files": [
+      "typings/browser.d.ts"
+    ]
+}
